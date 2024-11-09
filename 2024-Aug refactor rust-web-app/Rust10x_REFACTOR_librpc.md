@@ -72,5 +72,3 @@ Was having trouble with the macros.
      - Well this says _could not find `prelude` in `lib_rpc_core`
 
 Finally all done. `quick_dev.rs` works.
-
-See [this commit for the changes](https://bitbucket.org/vamsijuvvigunta/hillops/commits/7791d1f383e891cff5a3fd659fb16fcf3d81f185)
